@@ -1,7 +1,7 @@
 # React-and-Node-in-same-terminal-concurrently
 React and Node js project running same terminal
 
-"concurrently" module used to run more then project at the same time
+"concurrently" module used to run more then project at the same time in the same terminal
 ```
 npm install concurrently
 ```
